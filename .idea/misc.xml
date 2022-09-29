@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/AndroidStudioProjects/BelajarActivity/app/src/main/res/layout/activity_get_started.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/BelajarActivity/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/BelajarActivity/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/BelajarActivity/app/src/main/res/layout/activity_tebak_kelahiran.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/BelajarActivity/app/src/main/res/layout/hello_world.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

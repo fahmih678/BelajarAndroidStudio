@@ -23,7 +23,6 @@ public class Tebak_kelahiran extends AppCompatActivity {
     }
 
     public void handleSubmit(View view) {
-
         try {
             int tahunLahir = Integer.parseInt(tahunLahirInput.getText().toString());
             if(tahunLahir>=1946 && tahunLahir<=1964){
